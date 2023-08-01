@@ -1,7 +1,8 @@
 # ROCKET GAME
-CSC 171 Project 3
 Drone Pilot Game
 
+<img src="./img/img0.png" width=100% height=100%>
+<img src="./img/img1.png" width=100% height=100%>
 *Sometimes Swing has problem rendering graphics, if blank screen occurs, please try re-run the program.
 
 <br />
