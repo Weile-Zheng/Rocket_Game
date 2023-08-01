@@ -124,4 +124,9 @@ public class RocketPanel2p extends RocketPanel1p {
 			player2.jetting = false;
 		}
 	}
+	@Override
+	public void keyTyped(KeyEvent e) {
+
+	}
+	
 }
