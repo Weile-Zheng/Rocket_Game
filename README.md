@@ -2,7 +2,8 @@
 Drone Pilot Game
 
 <img src="./img/img0.png" width=100% height=100%>
-<img src="./img/img" width=100% height=100%>
+<img src="./img/img.png" width=100% height=100%>
+Drone Pilot Game
 *Sometimes Swing has problem rendering graphics, if blank screen occurs, please try re-run the program.
 
 <br />
